@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## live link
 [live link](https://fetch-post-api.netlify.app/)
 
-## Author
-[Josphat Kiploman](https://www.linkedin.com/in/josphat205/)
-- [Josphat205](https://github.com/Josphat205)
+## Author social media
+[Linkedin](https://www.linkedin.com/in/josphat205/)
+[Github](https://github.com/Josphat205)
 ## Available Scripts
 
 In the project directory, you can run:
